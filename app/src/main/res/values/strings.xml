@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocationApi</string>
+    <string name="start_location">начать обновление местоположения</string>
+    <string name="stop_location">остановить обновления местоположения</string>
+    <string name="time">Время</string>
+    <string name="result_location">местоположение результата</string>
+</resources>
